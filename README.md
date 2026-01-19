@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @DarkVixion
-- 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning Web Dev
-- 💞️ I’m looking to collaborate on Game Project
-- 📫 How to reach me hafizhfuq12@gmail.com
+- 👋 Hi, I’m Hafizh Fuqaha aka @DarkVixion 
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Network Configuration
+- 💞️ I’m looking to collaborate on Web and Mobile App Development
+- 📫 How to reach me hafizhfuqaha.work@gmail.com
 
 <!---
 DarkVixion/DarkVixion is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
